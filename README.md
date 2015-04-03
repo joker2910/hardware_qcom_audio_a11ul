@@ -1,0 +1,1 @@
+hardware_qcom_audio_a11ul
